@@ -1,7 +1,7 @@
 # E94116041_numerical_hw4
 # 數值方法 作業4  
-  
-# 第1題程式碼  
+
+第1題程式碼  
   
   import numpy as np 
   ''' 定義被積函數'''    
