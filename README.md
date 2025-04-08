@@ -2,8 +2,11 @@
 數值方法 作業4
 第1題程式碼
   import numpy as np
+  
   定義被積函數
+  
   def f(x):
+  
       return np.exp(x) * np.sin(4 * x)
   給定參數
   a = 1.0  # 積分下限
